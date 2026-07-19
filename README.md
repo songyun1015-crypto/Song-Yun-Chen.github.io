@@ -25,7 +25,7 @@
 ---
 
 ## Research Interests
-My research interests lie in arithmetic geometry. Specifically, I am interested in the cohomological Brauer group, unramified Brauer groups, the Bogomolov multiplier, and rational points on algebraic varieties.
+My research interests lie in arithmetic geometry. Specifically, I am interested in the cohomological Brauer group and rational points on algebraic varieties.
 
 ---
 
