@@ -1,8 +1,4 @@
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-<style>
-  /* 魔法：直接隱藏網頁上所有自動生成的大一號 H1 藍色主標題 */
-  h1 { display: none !important; }
-</style>
+
 ##Song-Yun Chen (陳嵩昀)
 <!-- 個人照片設定：width="180" 可以自由調整照片寬度像素 -->
 <img src="./profile.jpg" width="150" alt="Song-Yun Chen" style="border-radius: 8px; float: left; margin-right: 40px; margin-bottom: 20px;">
@@ -22,3 +18,9 @@ My research interests lie in arithmetic geometry. Specifically, I am interested 
 ## Master's Thesis
 * **Title:** [The Local-Global Principle for Prescribed Norm Problem](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/102415)
 * **Description:** This paper is a detailed survey of the appendix of the paper "[Number fields with prescribed norms](https://arxiv.org/abs/1810.06024)". We reorganize the material in a self-contained way by presenting the necessary background knowledge and supplementing the technical details omitted in the original work.
+
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<style>
+  /* 直接隱藏網頁上所有自動生成的大一號 H1 藍色主標題 */
+  h1 { display: none !important; }
+</style>
